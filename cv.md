@@ -1,6 +1,6 @@
 # Alexander Naumov 
 ## Contacts:
-[telegram](https://t.me/Axe11er)
+[discord](phntmq)
 ## Skills: 
 1. HTML/CSS
 2. JS
