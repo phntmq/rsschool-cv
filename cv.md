@@ -1,6 +1,6 @@
 # Alexander Naumov 
 ## Contacts:
-[discord](phntmq)
+Discord: phntmq
 ## Skills: 
 1. HTML/CSS
 2. JS
